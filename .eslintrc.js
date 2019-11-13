@@ -19,6 +19,6 @@ module.exports = {
     "no-param-reassign": "off",
     "camelcase": "off",
     "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
-    "object-curly-newline": ["error", { "ObjectPattern": { "multiline": true },}],
+    // "object-curly-newline": ["error", { "ObjectPattern": { "multiline": true },}],
   },
 };
